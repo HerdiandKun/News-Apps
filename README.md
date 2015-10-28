@@ -1,2 +1,2 @@
 # News-Apps
-Aplikasi News
+Aplikasi News-On Going
